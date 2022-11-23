@@ -1,2 +1,2 @@
 My first readme
-Git project
+Update on the README.md as obligated by the task
